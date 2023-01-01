@@ -1,23 +1,23 @@
 {
-  "name": "evm-agent",
-  "version": "1.0.0",
-  "description": "for when you need a backend signer",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ctnava/evm-agent.git"
-  },
-  "author": "ctnava",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ctnava/evm-agent/issues"
-  },
-  "homepage": "https://github.com/ctnava/evm-agent#readme",
-  "dependencies": {
-    "@ctnava/file-watcher": "^1.0.4",
-    "ethers": "^5.7.2"
-  }
+	"name": "@ctnava/evm-agent",
+	"version": "1.0.0",
+	"description": "for when you need a backend signer",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ctnava/evm-agent.git"
+	},
+	"author": "ctnava",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/ctnava/evm-agent/issues"
+	},
+	"homepage": "https://github.com/ctnava/evm-agent#readme",
+	"dependencies": {
+		"@ctnava/file-watcher": "^1.0.4",
+		"ethers": "^5.7.2"
+	}
 }
